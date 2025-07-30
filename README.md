@@ -24,6 +24,18 @@ To https://github.com/shyam-mr-sundar/Laptop_to_Cloud_git.git
 error: failed to push some refs to 'https://github.com/shyam-mr-sundar/Laptop_to_Cloud_git.git'
   ```
 
+1️⃣_Primary method:_
+
+ Import Power BI template and then add two fields earlierst data = 12-08-2008 and latest date 01-03-2021.
+Once Template is loaded then change the source file location.
+* File ➡️ Options and Settings ➡️ Data Source Settings.
+* There are 4 connections each connection need to be linked to respective file.
+* Load the data and then wait for visualization to refresh.
+
+
+ 
+ 2️⃣ Alternate method if we don't have source files .
+ 
 So I'm following a method which is known to me for uploading multiple zip files.
 
 <img width="1001" height="731" alt="image" src="https://github.com/user-attachments/assets/14c464f2-571a-4310-b00c-f960d00fa775" />
